@@ -1,0 +1,15 @@
+
+- name: Python
+  icon: fab fa-python
+  
+- name: SQL
+  icon: fas fa-database
+
+- name: Polars
+  icon: fas fa-table
+
+- name: Plotly
+  icon: fas fa-chart-bar
+
+- name: Scikit-learn
+  icon: fas fa-brain

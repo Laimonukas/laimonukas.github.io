@@ -1,0 +1,20 @@
+- name: Pandas
+  icon: fab fa-python
+
+
+- name: Polars
+  icon: fab fa-python
+
+- name: Numpy
+  icon: fab fa-python
+
+- name: Scipy
+  icon: fab fa-python
+
+- name: Statsmodels
+  icon: fab fa-python
+  
+- name: Scikit-learn
+  icon: fab fa-python
+  
+

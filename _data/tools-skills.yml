@@ -1,0 +1,11 @@
+- name: Jupyter Notebooks
+  icon: fab fa-python
+
+- name: Git
+  icon: fab fa-git
+
+- name: Docker
+  icon: fab fa-docker
+
+- name: Streamlit
+  icon: fas fa-chart-line

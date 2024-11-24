@@ -1,0 +1,12 @@
+- name: Python
+  icon: fab fa-python
+  
+- name: SQL
+  icon: fas fa-database
+
+- name: GDScript
+  icon: fas fa-code
+
+
+- name: UE Blueprints
+  icon: fas fa-code

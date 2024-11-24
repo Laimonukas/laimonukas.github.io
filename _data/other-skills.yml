@@ -1,0 +1,15 @@
+- name: Azure
+  icon: fas fa-cloud
+
+- name: GCP
+  icon: fas fa-cloud
+
+- name: C#
+  icon: fas fa-code
+
+- name: Splunk
+  icon: fas fa-chart-line
+
+- name: SCOM
+  icon: fas fa-chart-line
+
